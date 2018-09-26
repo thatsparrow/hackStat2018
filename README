@@ -1,0 +1,34 @@
+### DATA
+
+Variables: 2
+Type: Structured 
+
+### TO-DO
+
+(1) Historical: 
+
+Solve the forecasting problem as a time series modeling problem
+
+(2) Advanced:
+
+Use reserveration data or increment of bookings N from now to a day T (for which there are already K reservations) in the future
+
+### TOOLS
+
+Ridege Regression
+Kernel Ride Regression
+Multilayer Perceptron
+Radial Basis Function Networks
+
+### VISUALIZATION
+
+Matplotlib 
+PostreSQL 
+SQLite 
+Mathematica
+Matlab
+Power BI
+
+### CONCLUSION 
+
+"Results show a Ridge regression model with quadratic features trained on the reservations data set, outperforms the other models considered, with a validation set MAPE of 8.2012% and a test set MAPE of 8.6561%... Finally, the use of bookings and reservations known in advance offered the best performance. The results obtained are promising and support the use of black-box Machine Learning based tools for estimating hotel occupation, which require little statistical expertise by the hotel staff; allowing for a more effective deployment of Revenue Management techniques in the hospitality sector." - William Caicedo-Torres and Fabián Payares (November 2016)
