@@ -5,17 +5,17 @@ Type: Structured
 
 ### TO-DO
 
-(1) Historical: 
+(1) What they want: 
 
-Solve the forecasting problem as a time series modeling problem
+Solve the forecasting problem as a time series modeling problem using historical information
 
-(2) Advanced:
+(2) What they need:
 
-Use reserveration data or increment of bookings N from now to a day T (for which there are already K reservations) in the future
+Use reserveration data or increment of bookings N from now to a day T (for which there are already K reservations) in the future to solve forecasting problem
 
 ### TOOLS
 
-Ridege Regression
+Ridge Regression
 Kernel Ride Regression
 Multilayer Perceptron
 Radial Basis Function Networks
