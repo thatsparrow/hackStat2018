@@ -9,9 +9,9 @@ Type: Structured
 
 Solve the forecasting problem as a time series modeling problem using historical information
 
-(2) What they need:
+(2) What you should do at home:
 
-Use reserveration data or increment of bookings N from now to a day T (for which there are already K reservations) in the future to solve forecasting problem
+Use reserveration data or increment of bookings N from now to a day T (for which there are already K reservations) in the future to solve forecasting problem 
 
 ### TOOLS
 
